@@ -13,7 +13,7 @@ PDF Text Searcher is a Python script that allows you to search for specific text
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - PyPDF2 library
 
 ## Installation
